@@ -8,6 +8,7 @@
 #include <iostream>
 using namespace std;
 
+//pass array as pointer (using *) otherwise it will pass as reference
 void printArray(int *arr,int size){
     cout << "from the printArray function" << endl;
     arr[0] = 100;

@@ -1,2 +1,5 @@
 # Data Structures and Algorithms C++
-Data structures and algorithms implementations using C++
+- Arrays
+  - Prefix Sum
+- Sorting
+  - Bubble Sort

@@ -20,7 +20,7 @@ int main() {
 	int n  = sizeof(arr) / sizeof(int);
 
 	bubble_sort(arr, n);
-	for(auto x:arr){
+	for (auto x : arr) {
 		cout << x << endl;
 	}
 }

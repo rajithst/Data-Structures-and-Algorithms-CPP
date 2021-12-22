@@ -5,3 +5,5 @@
   - Bubble Sort
 - Binary Search Tree
   - Insert/Search
+- Trie
+  - Insert/Search
